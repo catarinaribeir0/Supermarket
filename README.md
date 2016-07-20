@@ -1,5 +1,5 @@
 # Supermarket
-Sistema de supermercado em java - Trabalho da disciplina Programação Orientada a Objetos  
+Sistema de supermercado em java - Trabalho da disciplina Programação Orientada a Objetos, com uso de interface Swing  
 
 O supermercado tem um gerente e cinco funcionários, que se revezam nas três caixas de pagamento. Cada caixa está equipada com uma balança, viabilizando a venda de produtos por quilo ou por unidade. O sistema respeita os seguintes requisitos:  
 - Fazer o controle do estoque de produtos do supermercado, permitindo que gerentes adicionem produtos ao estoque e que funcionários realizem a vendas de produtos, fazendo baixa do estoque.  
