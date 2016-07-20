@@ -1,0 +1,96 @@
+Cenoura a granel kg
+2.49f
+10
+0
+Cebola a granel kg
+2.85f
+10
+0
+Tomate a granel kg
+3.48f
+10
+0
+Tapioca Da Terrinha 500g
+4.99f
+10
+1
+Ovo branco 12 unidades
+5.95f
+10
+1
+Alho a granel kg
+19.9f
+10
+0
+Laranja-pera a granel kg
+2.45f
+10
+0
+Mamao-formosa a granel kg
+2.99f
+10
+0
+Uva-vermelha s/ semente 500g
+4.99f
+10
+0
+Manga nacional a granel kg
+6.99f
+10
+0
+Maca red importada a granel kg
+7.99f
+10
+0
+Pera williams a granel kg
+7.99f
+10
+0
+Guarana Antartica 2L
+5.29f
+10
+1
+Pepsi 2L
+3.49f
+10
+1
+Arroz Maximo 5kg
+14.95f
+10
+1
+Cafe Coracoes 500g
+9.68f
+10
+1
+Cafe Evolutto Extra Forte 500g
+7.28f
+10
+1
+Alimento infantil Nestle 120g
+3.99f
+10
+1
+File de Peito de Frango Seara 1kg
+10.98f
+10
+1
+Maionese Arisco Trad. 500g
+3.99f
+10
+1
+Ketchup Hellman's Trad. 380g
+5.99f
+10
+1
+Leite Condensado 
+2.99f
+10
+1
+Pao de Forma Trad. 500g
+3.69f
+10
+1
+Pao de Forma Integral 500g
+5.49f
+10
+1
